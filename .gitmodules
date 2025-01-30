@@ -1,0 +1,6 @@
+[submodule "libs/baileys"]
+	path = libs/baileys
+	url = https://github.com/WhiskeySockets/Baileys
+[submodule "libs/whatsmeow"]
+	path = libs/whatsmeow
+	url = https://github.com/tulir/whatsmeow
